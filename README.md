@@ -25,24 +25,6 @@ Facial expression recognition is a key component in human-computer interaction, 
 
 3. Install the required packages
 
-## Usage
-
-1. **Data Preparation**: Download the datasets (see the Datasets section) and place them in the `data/` directory.
-
-2. **Preprocessing**: Run the preprocessing script to prepare the data:
-   ```bash
-   python preprocess.py
-   ```
-
-3. **Training**: Train the model using the training script:
-   ```bash
-   python train.py
-   ```
-
-4. **Evaluation**: Evaluate the model on the test set:
-   ```bash
-   python evaluate.py
-   ```
 
 ## Datasets
 
